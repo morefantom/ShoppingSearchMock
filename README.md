@@ -1,0 +1,2 @@
+# ShoppingSearchMock
+Search with debounce
